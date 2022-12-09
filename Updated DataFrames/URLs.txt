@@ -1,4 +1,3 @@
 Tasks : https://raw.githubusercontent.com/Manik0799/Python-Coursework/main/Updated%20DataFrames/task_scaled.csv
 Suppliers : https://raw.githubusercontent.com/Manik0799/Python-Coursework/main/Updated%20DataFrames/supplier_scaled.csv
-Costs : https://raw.githubusercontent.com/Manik0799/Python-Coursework/main/Updated%20DataFrames/cost_df.csv
-Costs (Grouped by TaskIDs) : https://raw.githubusercontent.com/Manik0799/Python-Coursework/main/Updated%20DataFrames/cost_df_grouped_sorted.csv
+Costs : https://raw.githubusercontent.com/Manik0799/Python-Coursework/main/Updated%20DataFrames/cost_df_new.csv
